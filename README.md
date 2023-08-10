@@ -42,9 +42,9 @@ EV
 
 Notes:
 Does range have an impact on buying decisions i.e. brand and or price?
-avg. msrp per brand for 2022, compared to max range per brand, does that correlate to demand of any specific brand in total sales?
-Might need to pivot hypothesis on age groups who drive demand i.e. Millenials etc.
-What is the income demographic 
+Avg. msrp per brand for 2022, compared to max range per brand, does that correlate to demand of any specific brand in total sales?
+What age groups who drive demand i.e. Millenials etc.?
+What is the income demographic?
 
 Add in YoY growth %
     line plot for comparison between vehicle types
