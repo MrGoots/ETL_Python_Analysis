@@ -31,16 +31,6 @@ Dataframing - David J., Carl, Shane
 Visualizations - Shane, Sean, Subha
 Presentation - Sean, Dinu, (@everyone)
 
-
-Brainstorm:
-Health
-    Weight loss
-    reduction of wrinkles
-    pharma trials
-        publications/data
-            age
-            longevity
-            "green zones"
 EV
     Finance - cost of manufacturing costs
     carbon offset
@@ -50,7 +40,16 @@ EV
     map points of charge points/locations
     sales by model in USA 
 
+Notes:
+avg. msrp per brand for 2022, compared to max range per brand, does that correlate to demand of any specific brand in total sales?
+Might need to pivot hypothesis on age groups who drive demand i.e. Millenials etc.
+What is the income demographic 
 
+Add in YoY growth %
+    line plot for comparison between vehicle types
+
+Price points (KBB)
+    Avg MSRP to compare EV v. Non EV to correlate against registration counts to help determine if price drives EV demand
 
 
 
