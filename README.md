@@ -40,11 +40,14 @@ EV
     map points of charge points/locations
     sales by model in USA 
 
-Notes:
-Does range have an impact on buying decisions i.e. brand and or price?
+Notes/Hypothesis:
+Range Anxiety has an impact on EV buying decisions i.e. brand/model
+    Charge stations saturation helps ease making
+        long range has less saturation v. short range with more saturation
 Avg. msrp per brand for 2022, compared to max range per brand, does that correlate to demand of any specific brand in total sales?
-What age groups who drive demand i.e. Millenials etc.?
-What is the income demographic?
+Millenials drive market demand in electric vehicle purchases.
+People who make more than the US median income are more likely to buy an EV.
+
 
 Add in YoY growth %
     line plot for comparison between vehicle types
